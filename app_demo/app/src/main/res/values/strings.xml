@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sharkie</string>
+
+    <!-- DJI SDK registration  -->
+    <string name="dji_registration_status_registered">"DJI status: registered"</string>
+    <string name="dji_registration_status_error">"DJI status: not registered, please connect to the internet!"</string>
+    <string name="sdk_registration_message">SDK Registration Failed. Please check the bundle ID and your network connectivity</string>
+
+    <!-- Drone connection -->
+    <!-- Disconnected -->
+    <string name="status_drone_disconnected">Drone Status: disconnected</string>
+    <!-- Connected -->
+    <string name="status_aircraft_connected">Drone Status: DJIAircraft connected</string>
+    <string name="status_handheld_connected">Drone Status: DJIHandHeld connected</string>
+    <!-- Toast prompt user to connect drone -->
+    <string name="toast_message_connect_drone">Please connect to the drone first</string>
+
+    <!-- Drone information -->
+    <!-- Drone info not available-->
+    <string name="drone_info_not_available">N/A</string>
+    <string name="model_not_available">Model Not Available</string>
+    <string name="model_information">Model Information</string>
+
+    <string name="open_camera_view">Open the Camera View</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmVyYXBub3BvZCIsImEiOiJjazdjcnF1dXYwNnQyM2hxdDk4YWtsdnI2In0.wgAgyEpcbPNeKtjqqX_5bg</string>
+
+</resources>
